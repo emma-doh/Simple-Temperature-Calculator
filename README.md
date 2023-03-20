@@ -1,2 +1,2 @@
 # Practice
-Simple code to learn how to code
+This is a simple calculator to convert Celsius to Fahrenheit in C++
