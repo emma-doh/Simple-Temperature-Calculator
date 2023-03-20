@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+int main ( )
+	{
+  int F;
+  double C;
+  F = (9 * C) / 5 + 32; 
+   
+    cout << "Enter the current temperature in  Celsius, \n";
+    cout << "then press return:  \n";
+    cin >> C;
+
+    cout << "Your current temperature in Fahrenheit is:   " << F << endl;
+  
+    return 0;
+  
+    }
